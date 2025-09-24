@@ -3,7 +3,7 @@
   "creators": [
     {
       "name": "Fridman, Naomi",
-      "affiliation": "Your Institution"
+      "affiliation": "NF Algorithms & AI"
     }
   ],
   "description": "Code for processing and using the BreastDCEDL_AMBL dataset",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "related_identifiers": [
     {
-      "identifier": "10.5281/zenodo.15627233",
+      "identifier": "10.5281/zenodo.17189101",
       "relation": "isSupplementTo",
       "resource_type": "dataset"
     }
