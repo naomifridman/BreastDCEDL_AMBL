@@ -7,7 +7,7 @@
     }
   ],
   "description": "Code for processing and using the BreastDCEDL_AMBL dataset",
-  "keywords": ["breast MRI", "DCE-MRI", "medical imaging", "dataset"],
+  "keywords": ["breast MRI", "DCE-MRI", "medical imaging", "dataset", "cancer"],
   "license": "MIT",
   "related_identifiers": [
     {
