@@ -1,0 +1,19 @@
+{
+  "title": "BreastDCEDL_AMBL: Processing Code for Curated Breast DCE-MRI Dataset",
+  "creators": [
+    {
+      "name": "Fridman, Naomi",
+      "affiliation": "Your Institution"
+    }
+  ],
+  "description": "Code for processing and using the BreastDCEDL_AMBL dataset",
+  "keywords": ["breast MRI", "DCE-MRI", "medical imaging", "dataset"],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.15627233",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
